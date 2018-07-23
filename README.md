@@ -1,4 +1,4 @@
-# web-template
+# web-dev-templates
 
 I plan to store some useful templates when developing a single page apps with popular frameworks.
 The purpose is to avoid search answers on internet or books when someone needs these building blocks.
